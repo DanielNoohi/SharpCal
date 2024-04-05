@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "razor.languageServer.debug": true,
+    "dotnet.preferCSharpExtension": true,
+    "dotnetAcquisitionExtension.enablePreviewFeatures": true,
+    "dotnetAcquisitionExtension.existingDotnetPath": [
+        
+    ]
+}

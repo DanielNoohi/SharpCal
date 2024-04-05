@@ -1,0 +1,7 @@
+C:\Users\Daniel\csharp\obj\Debug\net8.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\csharp\obj\Debug\net8.0\csharp.AssemblyInfoInputs.cache
+C:\Users\Daniel\csharp\obj\Debug\net8.0\csharp.AssemblyInfo.cs
+C:\Users\Daniel\csharp\obj\Debug\net8.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\csharp\obj\Debug\net8.0\csharp.csproj.AssemblyReference.cache
+C:\Users\Daniel\csharp\obj\Debug\net8.0\csharp.Resources1.resources
+C:\Users\Daniel\csharp\obj\Debug\net8.0\csharp.csproj.GenerateResource.cache
